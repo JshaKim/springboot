@@ -1,0 +1,6 @@
+
+button {
+    background-color: #ffffff; /* 새로운 배경색 */
+    border-radius: 8px; /* 새로운 테두리 모양 */
+    outline: none;
+}
